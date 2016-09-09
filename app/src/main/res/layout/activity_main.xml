@@ -5,9 +5,10 @@
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/id_recycleview"
+        android:divider="#ffff0000"
+        android:dividerHeight="10dp"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="#f44"
         />
 
 </RelativeLayout>
